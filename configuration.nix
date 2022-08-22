@@ -126,6 +126,8 @@
    kitty
   ];
 
+programs.ssh.askPassword = "";
+
 programs.bash.shellInit = ''
 '';
 
